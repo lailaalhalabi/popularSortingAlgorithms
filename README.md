@@ -11,3 +11,6 @@ A reference for the most popular sorting algorithms.
    4. merge sort
 
    5. quick sort
+
+
+Sources: M. T. Goodrich, Data structures and algorithms in Java. Hoboken, N.J: Wiley, 2014.
